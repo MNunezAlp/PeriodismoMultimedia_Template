@@ -9,23 +9,23 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Balconectate
 
-**Autor(es)** ______________
+**Autor(es)** María Núñez De Arenas
 
-**Resumen** : _________
+**Resumen** : Proyecto colaborativo y colectivo diseñado para mostrar las nuevas formas de crear música, arte, relaciones e iniciativas que se están forjando en los balcones de Granada. Va más allá de un simple maps, ya que permite recorrer las calles de la ciudad a la vez que adentrarse en la vida que antes se escondía en las casas y que, ahora, hemos sacado a relucir a los balcones.
 
-**logotipo** :  ________
+**logotipo**: 
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** : la colectividad que rompe el aislamiento
 
-**Hashtag**  ___
+**Hashtag**  #BalcoNectate 
 
-**Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
+**Licencia** CC BY-SA 
 
 **Fecha** : 2020
 
-**Medios** (donde se tiene presencia): 
+**Medios** (donde se tiene presencia):  
 
 
 *  :octocat: (github url) 
@@ -46,7 +46,7 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
+* 
 * (...)
 * 
 
