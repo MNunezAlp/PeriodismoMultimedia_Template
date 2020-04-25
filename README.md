@@ -43,27 +43,32 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
+A partir de la ideación del proyecto realizado en la platafomra Trello, el desarrollo de BalcoNecta-te está centrado en la idea de poder escapar del aislamiento que supone el confinamiento mediante las herramientas que ofrece internet. Así, se presenta una forma de suplir las ganas de recorrer las calles de Granada. 
+Estamos comprobando que una ciudad sin gente es solo un espacio sin vida y que necesitamos de lo colectivo para poder sentir la esencia de los lugares. Por esto, BalcoNecta-te replantea la forma de mirar a través de un mapa y ofrece la posibilidad, a través de una aplicación de geolocalización y con 'street view', de pasear de manera virtual por Granada y de conocer a las personas que habitan sus balcones. Para ello, la esencia del proyecto radica en lo colectivo: cualquier persona puede descargarse la app y contar su historia o su iniciativa de balcón incluyendo videos, fotografías o textos que permitan al usuario clicar sobre un balcón y así poder viajar desde el exterior hasta la vida de los hogares. 
+Es importante remarcar que la aportación de contenido sería siempre verificado antes de su publicación para evitar que este fuera ofensivo o falso. 
+
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
 * RED MALLA (https://redmalla.net/#/map): Es un proyecto destinado a localizar en el mapa de España las diferentes violaciones al derecho de manifestación y de expresión. Aunque la temática de Red Malla no tenga ninguna relación con este proyecto, su formato y metodologia si son una inspiración para lo que sería la página web de BalcoNecta-te, ya que esta sería un mapa similar, pero de Granada, que localizará las diferentes iniciativas culturales y sociales que se han creado en los balcones de Granada. Además, el método de publicación de Red Malla se basa en la colaboración de la ciudadanía y en la previa verificación de la información antes de que sea publicada. Esta es la metodología que se seguiría en BalcoNecta-te para evitar publicaciones ofensivas o falsas. 
-* 
-* 
+* #PHEdesdemibalcón (https://www.phe.es/convocatoria-online-phedesdemibalcon/): se trata de una iniciativa de la 23ª edición del festival PhotoEspaña. Es una convocatoria online de fotografía que incluirá fotografías de ciudades hechas desde los balcones de las casas. Granada es una de las participantes y el Ayuntamiento de la ciudad anima a toda la ciudadanía a participar en la iniciativa. 
+* @LaHiloteca: Cuenta de Twitter que recopila historias narradas en forma de hilo en esta red social. Tanto esta cuenta como la de su creador Manuel Bartual (@ManuelBartual) han sido una inspiración para dirigir la narrativa de BalcoNecta-te en Twitter a través del nuevo fenómeno de la tuiteratura.
 
 
 **Necesidad/oportunidad** 
-Frente a la nueva crisis que estamos viviendo a causa del Covid-19, la sociedad está generando nuevas formas de relacionarse, de apoyarse y de crecer de forma colectiva desde su casa. Entre ellas, el hecho de asomarse a los balcones y hablar con el vecino de enfrente, que no habrías conocido si no fuera por el aislamiento, refleja una nueva forma de sentir el sentimiento de pertenencia a la comunidad. Así, el propio comportamiento social de reinventarse para buscar el calor relacional que no permite el aislamiento, me parece la oportunidad de crear nuevas formas de narrar a la sociedad mediante herramientas que permitan al usuario a mirar de una manera más emocional las calles de la ciudad. 
+Frente a la nueva crisis que estamos viviendo a causa del Covid-19, la sociedad está generando nuevas formas de relacionarse, de apoyarse y de crecer de forma colectiva desde su casa. Entre ellas, el hecho de asomarse a los balcones y hablar con el vecino de enfrente, que no habrías conocido si no fuera por el aislamiento, refleja una nueva forma de sentir el sentimiento de pertenencia a la comunidad. Así, el propio comportamiento social de reinventarse para buscar el calor relacional que no permite el aislamiento, me parece la oportunidad de crear nuevas formas de narrar a la sociedad mediante herramientas que permitan al usuario mirar de una manera más emocional las calles de la ciudad. 
 
 **Motivación de la propuesta** 
+La motivación de la propuesta surge de la necesidad de reinventar la forma de contar historias en un momento en que no podemos mirar más allá de nuestra calle pero sí podemos recorrer el mundo a través de nuestro móvil. BalcoNecta-te también surge de la motivación de humanizar el mundo virtual.
 
-
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios** 
+Este proyecto está dirigido a personas que vivan en la ciudad de Granada y que tengan acceso tanto a internet como a smartphones, ya que es una iniciativa que necesita de un usuario entendedor de los diferentes medios a los que se puede acceder a través de móviles. Sin embargo, esto no implica que esté dirigido hacia la Generación Z y/o millenials, ya que podría ser de gran interés para personas implicadas o interesadas en el mundo de la cultura y de los colectivos sociales. 
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
-* BacoNecta-te App: La aplicación móvil es el medio central del proyecto. 
-* PÁGINA WEB:  En este proyecto, la página web no es una pieza fundamental, pero sí necesaria por puro posicionamiento web y para que los usuarios puedas conocer todos los términos de 
-* videojuego 
-* ... 
+* BacoNecta-te App: La aplicación móvil es el medio central del proyecto. Será una aplicación disponible en Android e IOS basada en la geolocalización y la creación inmersiva, de carácter colectivo y colaborativo. Su funcionamiento sería parecido al de Maps de Google pero con el valor añadido de acceder cápsulas multimedia geolocalizadas en los balcones para dar una sensación de vida al recorrido de la ciudad.
+* PÁGINA WEB: En este proyecto, la página web no es una pieza fundamental, pero sí necesaria por puro posicionamiento web y para que los usuarios puedas conocer todos los términos y condiciones así como las motivaciones del proyecto. También permitiría la descarga de la app desde esta página web. Estará centrada una narrativa visual de Granada en modo satélite que localizaría en el mapa las historias que cuentan los usuarios. Estas historias estarían resumidas y narradas de tal forma que incitaran a la curiosidad del usuario y que le invitaran a descargarse la App para poder así conocer mejor estas historias y recorrer las calles de Granada de manera inmersiva.
+* TWITTER: la narrativa para esta red social se centrará en contar las diferentes historias que se comparten en la app en forma de hilos de Twitter que tengan las características de la nueva tuiteratura. Estos hilos se acompañarían de imágenes y videos que dieran una visión multimedia y terminarían invitando a conocer la historía de forma más profunda a través de la app.
+* INSTAGRAM: Se aprovecharía el poder visual que tiene esta red social para publicar imágenes que subieran los usuarios y contar sus historias, así como para hacer campañas de comunicación que invitaran a los usuarios a descargarse la app y a recorrer Granada mediante BalcoNecta-te.
 
 
 
