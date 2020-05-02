@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+##  BalcoNecta-te 
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,7 +9,7 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : BalcoNecta-te
+**Titulo** : BalcoNecta-T
 
 **Autor(es)** María Núñez De Arenas
 
@@ -44,7 +44,7 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
 A partir de la ideación del proyecto realizado en la platafomra Trello, el desarrollo de BalcoNecta-te está centrado en la idea de poder escapar del aislamiento que supone el confinamiento mediante las herramientas que ofrece internet. Así, se presenta una forma de suplir las ganas de recorrer las calles de Granada. 
-Estamos comprobando que una ciudad sin gente es solo un espacio sin vida y que necesitamos de lo colectivo para poder sentir la esencia de los lugares. Por esto, BalcoNecta-te replantea la forma de mirar a través de un mapa y ofrece la posibilidad, a través de una aplicación de geolocalización y con 'street view', de pasear de manera virtual por Granada y de conocer a las personas que habitan sus balcones. Para ello, la esencia del proyecto radica en lo colectivo: cualquier persona puede descargarse la app y contar su historia o su iniciativa de balcón incluyendo videos, fotografías o textos que permitan al usuario clicar sobre un balcón y así poder viajar desde el exterior hasta la vida de los hogares. 
+Estamos comprobando que una ciudad sin gente es solo un espacio sin vida y que necesitamos de lo colectivo para poder sentir la esencia de los lugares. Por esto, BalcoNecta-te replantea la forma de mirar a través de un mapa y ofrece la posibilidad, a través de una aplicación basada en la geolocalización y con 'street view', de pasear de manera virtual por Granada y de conocer a las personas que habitan sus balcones. Para ello, la esencia del proyecto radica en lo colectivo: cualquier persona puede descargarse la app y contar su historia o su iniciativa de balcón incluyendo videos, fotografías o textos que permitan al usuario clicar sobre un balcón y así poder viajar desde el exterior hasta la vida de los hogares. 
 Es importante remarcar que la aportación de contenido sería siempre verificado antes de su publicación para evitar que este fuera ofensivo o falso. 
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
